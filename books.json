@@ -1,0 +1,29 @@
+[
+    {
+        "book_id": "1",
+        "title": "it starts with us",
+        "author": "collen hover",
+        "genre": "romantic",
+        "total_copies": 8,
+        "available_copies": 8,
+        "borrow_count": 1
+    },
+    {
+        "book_id": "2",
+        "title": "it ends with us ",
+        "author": "collen hover ",
+        "genre": "romantic ",
+        "total_copies": 5,
+        "available_copies": 5,
+        "borrow_count": 0
+    },
+    {
+        "book_id": "3",
+        "title": "The jungle book ",
+        "author": "Rudyard Kipling",
+        "genre": "Adventure",
+        "total_copies": 10,
+        "available_copies": 10,
+        "borrow_count": 0
+    }
+]
