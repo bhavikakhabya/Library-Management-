@@ -57,7 +57,7 @@
 
 ---
 
-## 🧠 OOP Design
+## 🧠 OOPS Design
 ### 📘 Book Class
 - Stores book details:
   - Book ID
